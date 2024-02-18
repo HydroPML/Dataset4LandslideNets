@@ -26,6 +26,6 @@ Results for different subdatasets.
 |   MFFENet   |  86.133%  | 92.121% | 80.088% |  93.608% | 88.299% | 96.754% |
 # References
 [1] Xu, Y., Ouyang, C., Xu, Q. et al. CAS Landslide Dataset: A Large-Scale and Multisensor Dataset for Deep Learning-Based Landslide Detection. Scientific Data 11, 12 (2024). [Paper](https://doi.org/10.1038/s41597-023-02847-z).  
-[2] Xu, Q. et al. MFFENet and ADANet: a robust deep transfer learning method and its application in high precision and fast cross-scene recognition of earthquake-induced landslides. Landslides 19, 1617–1647 (2022). [Paper](https://doi.org/10.1007/s10346-022-01847-1). [Code](https://github.com/xupine/LandslideNet) 
+[2] Xu, Q. et al. MFFENet and ADANet: a robust deep transfer learning method and its application in high precision and fast cross-scene recognition of earthquake-induced landslides. Landslides 19, 1617–1647 (2022). [Paper](https://doi.org/10.1007/s10346-022-01847-1), [Code](https://github.com/xupine/LandslideNet). 
 
 
